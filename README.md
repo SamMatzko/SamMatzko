@@ -1,5 +1,7 @@
 <h2>Hello, everyone!</h2>
 
+Pronouns: he/him.
+
 I'm a high school student, passionate about programming. I know a good deal of Python, I'm learning Rust, and I enjoy writing free, open-source projects for anyone. I'm also a Stack Overflow user, and I like to learn and help others learn.
 
 Aside from being handy, GitHub has literally _saved my life_; the Sortery project on my computer got deleted somehow, and it was only because I had put it on GitHub that I could recover it!

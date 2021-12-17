@@ -6,4 +6,4 @@ I'm a high school student, passionate about programming. I know a good deal of P
 
 Aside from being handy, GitHub has literally _saved my life_; the Sortery project on my computer got deleted somehow, and it was only because I had put it on GitHub that I could recover it!
 
-Be creative, be nice, be open and welcoming, and always improve where possible. And speaking of improving, if any of you find any problems with any of my projects, let me know, or even better, fix it yourself! I hope my apps come in useful and/or enjoyable!
+Be creative, be nice, be open and welcoming, and always improve where possible. And speaking of improving, if any of you find any problems with any of my projects, let me know, or even better, submit a pull request to fix it yourself! I hope my apps come in useful and/or enjoyable!

@@ -10,7 +10,7 @@ While also being handy, GitHub has literally _saved my (code's) life_; the [Sort
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamMatzko&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Snake dark](https://github.com/SamMatzko/SamMatzko/blob/output/github-contribution-grid-snake-dark.svg)
+[![GitHub Snake dark](https://github.com/SamMatzko/SamMatzko/blob/output/github-contribution-grid-snake-dark.svg)](https://github.com/Platane/snk)
 
 I'm known as [Sylvester Kruin](https://stackoverflow.com/users/16775594/sylvester-kruin) on [Stack Overflow](https://stackoverflow.com). Here is my Stack Exchange profile:
 

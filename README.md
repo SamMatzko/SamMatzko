@@ -1,5 +1,7 @@
 <h2>Hello, everyone!</h2>
 
+[![](https://komarev.com/ghpvc/?username=SamMatzko&color=fabd2f&style=flat&label=Sam+Matzko's+Profile+Views)](https://github.com/antonkomarev/github-profile-views-counter)
+
 Pronouns: he/him.
 
 I'm a student, passionate about programming. I know a good deal of Python, I'm learning Rust, and I enjoy writing free, open-source projects for anyone. I'm also a [Stack Overflow](https://stackoverflow.com) user, and I like to learn and help others learn. Aside from coding, I like doing home/car repairs, reading, driving, figuring things out, and occasionally writing music.

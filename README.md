@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hello! I'm Sam Matzko!</h1>
 
 <h3 align="center">
-<a href="https://python.org"><img src=""/></a>
-<a href="https://www.rust-lang.org"><img src=""/></a>
-<a href="https://arduino.cc"><img src=""/></a>
-<a href="https://github.com"><img src=""/></a>
-<a href="https://stackoverflow.com/"><img src=""/></a>
-<a href="https://code.visualstudio.com/"><img src=""/></a>
-<a href="https://ubuntu.com/"><img src=""/></a>
+<a href="https://python.org"><img src="python.png"/></a>
+<a href="https://www.rust-lang.org"><img src="rust.png"/></a>
+<a href="https://arduino.cc"><img src="arduino.png"/></a>
+<a href="https://github.com"><img src="github.png"/></a>
+<a href="https://stackoverflow.com/"><img src="stackoverflow.png"/></a>
+<a href="https://code.visualstudio.com/"><img src="vscode.png"/></a>
+<a href="https://ubuntu.com/"><img src="ubuntu.png"/></a>
 </h3>
 
 <h3 align="center"><a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=SamMatzko&color=fabd2f&style=flat&label=Sam+Matzko's+Profile+Views"/></a></h3>
@@ -39,7 +39,7 @@ Most of my repos you'll find might not be active at the moment; my projects ofte
 ## Where to find me
 
 <h4 align="center">
-<a href="https://github.com/SamMatzko/SamMatzko/discussions"><img src=""/> GitHub</a>
-<a href="https://stackexchange.com/users/22592749/sylvester-kruin?tab=top"><img src=""/> Stack Exchange</a>
-<a href="https://stackoverflow.com/users/16775594/sylvester-kruin"><img src=""/> Stack Overflow</a>
+<a href="https://github.com/SamMatzko/SamMatzko/discussions"><img src="github.png"/> GitHub</a>
+<a href="https://stackexchange.com/users/22592749/sylvester-kruin?tab=top"><img src="stackexchange.png"/> Stack Exchange</a>
+<a href="https://stackoverflow.com/users/16775594/sylvester-kruin"><img src="stackoverflow.png"/> Stack Overflow</a>
 </h4>

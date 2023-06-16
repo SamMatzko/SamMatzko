@@ -12,9 +12,7 @@ I'm a student, and I enjoy programming. I know a good deal of Python, I'm learni
 <a href="https://ubuntu.com/"><img src="ubuntu.png"/></a>
 </h3>
 
-<!-- <h3 align="center">
-<a href="https://stackexchange.com/users/22592749/sylvester-kruin"><img src="https://stackexchange.com/users/flair/22592749.png?theme=dark" width="416" height="116" alt="profile for Sylvester Kruin on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Sylvester Kruin on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
-</h3> -->
+<!-- <img src="/github-metrics.svg" alt="Metrics" width="400"> -->
 
 <!-- [![Sam Matzko's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamMatzko&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 

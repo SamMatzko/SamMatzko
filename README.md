@@ -22,6 +22,6 @@ I'm a student, and I enjoy programming. I know a good deal of Python, I'm learni
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SamMatzko&theme=gruvbox" /></a>
 </h3> -->
 
-<h3 align="center">
+<!-- <h3 align="center">
 <a href="https://github.com/Platane/snk"><img src="https://github.com/SamMatzko/SamMatzko/blob/output/github-contribution-grid-snake-dark.svg" alt="SamMatzko's contributions in the past year" /></a>
-</h3>
+</h3> -->
